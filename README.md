@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://academy.avast.com/hubfs/New_Avast_Academy/Hackers/Hacker-Hero-a1.png))](https://mxo01.io)
 <h1 align="center">Hi 👋, I'm Mario Di Modica</h1>
 <h3 align="center">A Computer Science student from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
