@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/docs/api)](https://mxo01.io)
+[![MasterHead](https://www.cioinsight.com/application-development/nearshore-software-development/)](https://mxo01.io)
 <h1 align="center">Hi 👋, I'm Mario Di Modica</h1>
 <h3 align="center">A Computer Science student from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
