@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxo01&label=Profile%20views&color=0e75b6&style=flat" alt="mxo01" /> </p>
 
-- 🔭 I’m currently working on **BigFarm (Private project for my University)**
+- 🔭 I’m currently working on **University projects**
 
 - 🌱 I’m currently learning **Languages and programming logic**
 
