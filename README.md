@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxo01&label=Profile%20views&color=0367a5&style=flat-square" alt="mxo01" /> </p>
 
-- 🌱I’m currently learning **Frameworks and programming logic**
+- 🌱 I’m currently learning **Full Stack Development** and the basics of **Data Analysis/Mining** and a little bit of **Web Scraping** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mxo01?tab=repositories](https://github.com/Mxo01?tab=repositories)
 
