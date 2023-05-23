@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Student at University of Pisa</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxo01&label=Profile%20views&color=0367a5&style=flat-square" alt="mxo01" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mxo01&label=Profile%20views&color=0367a5&style=flat-square" alt="mxo01" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development** and the basics of **Data Analysis/Mining** and a little bit of **Web Scraping** 
 
