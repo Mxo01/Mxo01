@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development** and the basics of **Data Analysis/Mining** and a little bit of **Web Scraping** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mxo01?tab=repositories](https://github.com/Mxo01?tab=repositories)
+- 👨‍💻 My last project is available at [MyLibretto]([https://github.com/Mxo01?tab=repositories](https://github.com/Mxo01/MyLibrettoPWA))
 
 - 💬 Ask me about **some collaborations**
 
