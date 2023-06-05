@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Student at University of Pisa</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 📒 I’m currently learning **Full Stack Development** and the basics of **Data Analysis/Mining** and a little bit of **Web Scraping** 
+- 📖 I’m currently learning **Full Stack Development** and the basics of **Data Analysis/Mining** and a little bit of **Web Scraping** 
 
 - 👨‍💻 My last project is available at [MyLibretto](https://github.com/Mxo01/MyLibrettoPWA)
 
