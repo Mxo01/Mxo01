@@ -2,8 +2,6 @@
 <h3 align="center">A Computer Science Student at University of Pisa</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxo01&label=Profile%20views&color=0367a5&style=flat-square" alt="mxo01" /> </p>
-
 - 📒 I’m currently learning **Full Stack Development** and the basics of **Data Analysis/Mining** and a little bit of **Web Scraping** 
 
 - 👨‍💻 My last project is available at [MyLibretto](https://github.com/Mxo01/MyLibrettoPWA)
@@ -14,8 +12,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mariodimodica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariodimodica" height="30" width="40" /></a>
-<a href="https://instagram.com/not_mxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_mxo" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mariodimodica" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariodimodica" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/not_mxo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_mxo" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
