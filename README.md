@@ -4,7 +4,9 @@
 
 - 📖 I’m currently learning **Full Stack Development** and the basics of **Cybersecurity** 
 
-- 👨‍💻 My last project is available at [MyLibretto](https://github.com/Mxo01/MyLibrettoPWA)
+- 👾 My biggest project is [LoveJob](https://github.com/Mxo01/LoveJob), Full Stack Web App in Angular and ASP.NET Core  
+  
+- 👨‍💻 My last deployed project is available at [MyLibretto](https://mylibretto.web.app/)
 
 - 🙋‍♂️ I love playing sports and staying active to make my days more productive.
 
