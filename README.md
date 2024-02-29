@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mario Di Modica</h1>
-<h3 align="center">A Cybersecurity Student @ University of Pisa</h3>
+<h3 align="center">A Software Engineer @ NTT Data Italia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 📖 I’m currently learning **Full Stack Development** and the basics of **Cybersecurity** 
+- 📖 I’m currently learning **Full Stack Development** 
 
 - 👾 My biggest project is [LoveJob](https://github.com/Mxo01/LoveJob), Full Stack Web App in Angular and ASP.NET Core  
   
