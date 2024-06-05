@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer @ NTT DATA Italia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🧑🏻‍💻 My last deployed project is available at [GymBro](https://gymbro-ld.web.app/)
+- 🧑🏻‍💻 My last deployed project is available at [GymBro](https://gymbro-ld.web.app/) develop with Lorenzo Deriu
 
 - 🏃🏻‍♂️‍➡️ I love playing sports and staying active to make my days more productive.
 
