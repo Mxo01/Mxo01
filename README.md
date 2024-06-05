@@ -14,13 +14,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mariodimodica" target="blank">
+  <a href="https://linkedin.com/in/mariodimodica" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariodimodica" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/20103529" target="blank">
+  <a href="https://stackoverflow.com/users/20103529" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20103529" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/not_mxo" target="blank">
+  <a href="https://instagram.com/not_mxo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_mxo" height="30" width="40" />
   </a>
 </p>
