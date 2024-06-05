@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mario Di Modica</h1>
-<h3 align="center">A Software Engineer @ NTT Data Italia</h3>
+<h3 align="center">A Software Engineer @ NTT DATA Italia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 📖 I’m currently learning **Full Stack Development** 
+- 🧑🏻‍💻 My last deployed project is available at [GymBro](https://gymbro-ld.web.app/)
 
-- 👾 My biggest project is [LoveJob](https://github.com/Mxo01/LoveJob), Full Stack Web App in Angular and ASP.NET Core  
-  
-- 👨‍💻 My last deployed project is available at [MyLibretto](https://mylibretto.web.app/)
-
-- 🙋‍♂️ I love playing sports and staying active to make my days more productive.
+- 🏃🏻‍♂️‍➡️ I love playing sports and staying active to make my days more productive.
 
 - 📫 How to reach me **mariodimodica.01@gmail.com**
 
