@@ -28,20 +28,20 @@
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
   <!-- Angular --->
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.m.wikipedia.org%2Fwiki%2FFile%3AAngular_gradient.png&psig=AOvVaw1p9MS_UBhCgCJpjgCFjGTv&ust=1717705424478000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjGhL-lxYYDFQAAAAAdAAAAABAK" alt="angular" width="40" height="40"/> 
   </a>
   <!-- React --->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
   <!-- Spring Boot --->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a>
   <!-- Dotnet --->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F.NET&psig=AOvVaw1Wn77IAG-2LIa-en73mWhG&ust=1717705664577000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjbs7GmxYYDFQAAAAAdAAAAABAE" alt="dotnet" width="40" height="40"/> 
   </a>
   <!-- PostgreSQL --->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
