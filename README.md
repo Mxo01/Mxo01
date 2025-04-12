@@ -27,7 +27,7 @@
 <p align="left">
   <!-- Angular --->
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
-    <img src="[https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png](https://angular.dev/press-kit)" alt="angular" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="angular" width="40" height="40"/> 
   </a>
   <!-- React --->
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
