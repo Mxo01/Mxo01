@@ -27,7 +27,7 @@
 <p align="left">
   <!-- Angular --->
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Angular_gradient.png/1200px-Angular_gradient.png" alt="Angular" width="40" height="40"/> 
+    <img src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi.png" alt="Angular" width="40" height="40"/> 
   </a>
   <!-- React --->
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
